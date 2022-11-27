@@ -12,7 +12,7 @@ setup(
     license="MIT",
     author="Alec Sharp",
     author_email="alecsharpie@gmail.com",
-    url="https://github.com/lewagon/taxi-fare",
+    url="https://github.com/alecsharpie/worldcup_2022",
     install_requires=requirements,
     packages=find_packages(),
     test_suite="tests",
